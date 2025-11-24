@@ -1,0 +1,3 @@
+Olá professor! Fiz esse aviso para falar que as versões "sequencial" e "paralela" não rodam no VSCODE por conta da criação dos gráficos feitos para funcionar apenas no GOOGLE COLLAB, eu comentei com você sobre a possibilidade de ser feito nele na penúltima aula presencial que teve. Segue o link do documento COLLAB para testar essas versões "sequencial" e "paralela": https://colab.research.google.com/drive/13yLulbZXT641nH95nkyeXrSAkXWXebd_
+
+A versão distribuída roda normalmente no VSCODE e não está no COLLAB porque ela não funciona nele.
